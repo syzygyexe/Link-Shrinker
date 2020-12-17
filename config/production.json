@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "syzygyexe",
+  "mongoUri": "mongodb+srv://alexander:1234@mern-links-cluster.or7gn.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
